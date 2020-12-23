@@ -1,6 +1,6 @@
 ---
 category: 'contact'
-title: 'Address'
-icon: 'map-marker-alt'
-content: 'Bandung, Indonesia'
+title: 'Email'
+icon: 'paper-plane'
+content: 'mokhamadnurmansah@gmail.com'
 ---
