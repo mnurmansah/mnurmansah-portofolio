@@ -1,7 +1,7 @@
 import React from 'react';
 import { useStaticQuery, graphql } from 'gatsby';
-import Img from 'gatsby-image';
-import Loadable from '@loadable/component';
+//import Img from 'gatsby-image';
+//import Loadable from '@loadable/component';
 
 import Container from 'components/ui/Container';
 import TitleSection from 'components/ui/TitleSection';
@@ -11,7 +11,7 @@ import { SectionTitle, ImageSharpFluid } from 'helpers/definitions';
 
 import * as Styled from './styles';
 
-const Carousel = Loadable(() => import('components/ui/Carousel'));
+//const Carousel = Loadable(() => import('components/ui/Carousel'));
 
 interface Testimonial {
   node: {
@@ -58,13 +58,26 @@ const Testimonials: React.FC = () => {
     }
   `);
 
-  const sectionTitle: SectionTitle = markdownRemark.frontmatter;
+ // const sectionTitle: SectionTitle = markdownRemark.frontmatter;
   const testimonials: Testimonial[] = allMarkdownRemark.edges;
 
   return (
     <Container section>
-      <TitleSection title={sectionTitle.title} subtitle={sectionTitle.subtitle} center />
-      <Styled.Testimonials>
+       <Styled.Testimonials>
+          {testimonials.map((item) => {
+            const {
+              id,
+              html,
+              frontmatter: { cover, title }
+            } = item.node;
+
+            return (
+              <Styled.Testimonial key={id}>
+                <Styled.Title>{title}</Styled.Title>
+                <FormatHtml content={html} />
+              </Styled.Testimonial>
+            );
+          })}
       </Styled.Testimonials>
     </Container>
   );
