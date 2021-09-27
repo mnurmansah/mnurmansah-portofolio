@@ -15,4 +15,4 @@ published: true
 A financial supply chain solution which focuses on business ecosystem communities from upstream to downstream, from manufacturers, distributors, suppliers, resellers to retailers. In this program, Maybank cooperates with Principals providing financial services such as : Distributor Financing, Supplier Financing, Cash Management and other financial services.
 </p>
 <p align="justify">
-Additionally, this program also supported with  CoOLPAY (Corporate Online Payment),  a web based payment  gateway which can support to simplify administration process.
+Additionally, this program also supported with  CoOLPAY (Corporate Online Payment),  a web based which can support to simplify administration process.
