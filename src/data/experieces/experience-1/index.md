@@ -1,6 +1,6 @@
 ---
 category: 'experiences'
-company: 'Widyatama University'
+company: 'WIDYATAMA UNIVERSITY'
 position: 'Staff Maintenance Lab. Informatics '
 startDate: 'Jun 2016'
 endDate: 'May 2018'

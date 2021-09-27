@@ -2,7 +2,7 @@
 category: 'blog'
 cover: './login.jpg'
 title: 'QueLA-BI Application (Antrian-Kas) Bank Indonesia'
-description: 'A financial supply chain solution which focuses on business ecosystem communities from upstream to downstream, from manufacturers, distributors, suppliers, resellers to retailers.'
+description: 'iQue is a complete queuing system used by companies or agencies that provide services that manages the customers waiting experience throughout their journey, from pre-service to post-service.'
 date: '2021-09-24'
 tags: ['HTML/CSS/Bootstrap', 'JavaScript']
 published: true

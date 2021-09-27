@@ -1,6 +1,6 @@
 ---
 category: 'education'
-university: 'National Polytechnic Institute of Cambodia (NPIC)'
+university: 'NATIONAL POLYTECHNIC INSTITUTE OF CAMBODIA (NPIC)'
 degree: 'Bachelor of Computer Science'
 startDate: 'Nov 2017'
 endDate: 'Nov 2018'

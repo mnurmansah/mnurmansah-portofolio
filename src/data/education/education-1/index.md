@@ -1,6 +1,6 @@
 ---
 category: 'education'
-university: 'Widyatama University'
+university: 'WIDYATAMA UNIVERSITY'
 degree: 'Bachelor of Informatics Engineering'
 startDate: 'Aug 2014'
 endDate: 'Oct 2018'

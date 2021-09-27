@@ -1,6 +1,6 @@
 ---
 category: 'experiences'
-company: 'PT. Square Gate One'
+company: 'SQUARE GATE ONE'
 position: 'Software Developer'
 startDate: 'Sept 2019'
 endDate: 'Jun 2020'
