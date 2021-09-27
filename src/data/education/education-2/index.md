@@ -5,6 +5,5 @@ degree: 'Bachelor of Computer Science'
 startDate: 'Nov 2017'
 endDate: 'Nov 2018'
 ---
-
-Join the double degree program in National Polytechnic Institute of Cambodia (NPIC) as a Computer Science
-student.
+<p style="text-align: justify;">
+Join double degree program in <b>National Polytechnic Institute of Cambodia (NPIC)</b> as a <b>Computer Science</b> student.</p>

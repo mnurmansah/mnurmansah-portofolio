@@ -5,5 +5,6 @@ degree: 'Bachelor of Informatics Engineering'
 startDate: 'Aug 2014'
 endDate: 'Oct 2018'
 ---
-
-Major Engineering, field Informatics Engineering, focus on Networking Security.
+<p style="text-align: justify;">
+<b>Major Engineering</b>, field <b>Informatics Engineering</b>, focus on Networking Security.
+</p>

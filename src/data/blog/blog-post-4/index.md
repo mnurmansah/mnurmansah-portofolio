@@ -8,7 +8,7 @@ role is to connect sellers and buyers in
 cyberspace or online. To make it easier for
 buyers to find products.'
 date: '2019-11-13'
-tags: ['Web Development', 'CodeIgniter']
+tags: ['HTML/CSS/Bootstrap', 'CodeIgniter']
 published: true
 ---
 

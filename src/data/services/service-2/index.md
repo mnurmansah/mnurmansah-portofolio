@@ -1,6 +1,6 @@
 ---
 category: 'services'
-title: 'Back-End'
+title: 'Software & Tools'
 icon: 'laptop-code'
-description: 'PHP with Framework Codeigniter and Zendframework'
+description: 'Jira Software (Confluence/Bigbucket), Swagger API, Postman API, SQL Server, Navicat, Photoshop and Figma'
 ---

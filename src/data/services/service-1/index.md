@@ -1,6 +1,6 @@
 ---
 category: 'services'
-title: 'Front-End'
+title: 'Technologies & Framework'
 icon: 'laptop-code'
-description: 'HTML, CSS, Sass, Javascript, ReactJS and Boostrap'
+description: 'HTML/CSS, SASS, Javascript, ReactJS, Bootstrap and PHP with CodeIgniter/ZendFramework'
 ---

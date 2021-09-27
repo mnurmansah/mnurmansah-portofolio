@@ -4,7 +4,7 @@ cover: './fscm.jpg'
 title: 'FSCM CoOLPAY (Corporate Online Payment) Maybank'
 description: 'A financial supply chain solution which focuses on business ecosystem communities from upstream to downstream, from manufacturers, distributors, suppliers, resellers to retailers.'
 date: '2020-06-01'
-tags: ['Web Development', 'ZendFramework']
+tags: ['HTML/CSS/Bootstrap', 'ZendFramework']
 published: true
 ---
 
