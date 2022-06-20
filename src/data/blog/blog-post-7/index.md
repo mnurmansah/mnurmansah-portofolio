@@ -4,7 +4,7 @@ cover: './iquec.png'
 title: 'iQue Cloud'
 description: 'iQue is a complete queuing system used by companies or agencies that provide services that manages the customers waiting experience throughout their journey, from pre-service to post-service.'
 date: '2022-01-02'
-tags: ['HTML/CSS/Bootstrap', 'JavaScript']
+tags: ['React.js/React Testing Library', 'SASS']
 published: true
 ---
 

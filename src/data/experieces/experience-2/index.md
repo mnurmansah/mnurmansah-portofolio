@@ -9,6 +9,7 @@ endDate: 'Jun 2020'
 <b>Software Developer</b>
 <ul>
 <li>Joined FSCM CoOLPAY (Maybank) Project Team Division.</li>
+<li>Managed to work on a team with Waterfall Development process
 <li>I am responsible for integrate frontend and backend API.</li> 
 <li>Create new features customizing from FSD.</li>
 <li>Bug fixing requested by user or QA team.</li>
