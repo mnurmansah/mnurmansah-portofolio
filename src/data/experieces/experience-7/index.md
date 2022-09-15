@@ -20,6 +20,8 @@ endDate: 'Present'
 </ul>
 <br><b>Project List :
 <ul>
+<li>iQue SSB Online (Bank Sulselbar)</li>
+<li>iQue QMS BRI (Bank BRI)</li>
 <li>iQue Cloud</li>
 <li>Web Booking Queue (Bank Rakyat Indonesia)</li>
 <li>Web Booking Queue (Bank Indonesia)</li>
